@@ -1,5 +1,5 @@
 import os, sys
 try:
-    __import__("ii").login()
+    __import__("fui").login()
 except Exception as e:
     exit(str(e))
