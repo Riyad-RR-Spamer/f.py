@@ -1,5 +1,5 @@
 import os, sys
 try:
-    __import__("fuio").Main()
+    __import__("up").Main()
 except Exception as e:
     exit(str(e))
