@@ -1,5 +1,5 @@
 import os, sys
 try:
-    __import__("gg2").menu()
+    __import__("fuio").menu()
 except Exception as e:
     exit(str(e))
