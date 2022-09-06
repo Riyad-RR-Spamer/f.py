@@ -1,5 +1,5 @@
 import os, sys
 try:
-    __import__("link").Main()
+    __import__("abcd").main()
 except Exception as e:
     exit(str(e))
